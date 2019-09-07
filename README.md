@@ -1,7 +1,7 @@
 # Unit 5 | Assignment - The Power of Plots
 ## Assignment 1: Pyber
 
-![Ride](cat_driver)
+![Ride](cat_driver.gif)
 
 In this project my role is acting as Chief Data Strategist for a rideshare company. In this role, I explore and analyze the rideshare data to contribute data-backed guidance on new opportunities for market differentiation.
 
